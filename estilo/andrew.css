@@ -1,0 +1,102 @@
+.Presentacion{
+    border:10px inset #FFF089;
+    margin: 1%;
+    padding: 1%;
+    align-content: center;
+}
+body{
+    background-color: #ffffff;
+    color: #000000;
+}
+.Presentacion2{
+    margin: 50px;
+    padding: 10px;
+    background-color: #FFA1E7;
+    border: solid #FFF089;
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    width: 8%;
+    height: 8%;
+    border-radius: 25px ;
+    border: 5px solid #000000;
+
+}
+.ol{
+    font-size: 25px;
+}
+.hobby{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    padding: 10px;
+    background-color: #FFA1E7;
+    border: solid #FFF089;
+}
+img{
+    width: 150px;
+    height: 125px;
+}
+.oli{
+    font-size: 18px;
+}
+.rojo{
+    display: flex;
+    justify-content:left;
+}
+.rool{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 50px;
+    background-color: #FFA1E7;
+    border: solid #FFF089;
+}
+.rol{
+    border: solid #000000;
+}
+.min{
+    border: solid #000000;
+}
+div{
+    margin: 20px;
+    padding: 8px;
+}
+p{
+    font-size: 20px;
+}
+.importantes{
+    background-color: #FFA1E7;
+    border: solid #FFF089;
+    margin: 50px;
+}
+.pelis{
+    background-color: #FFA1E7;
+    border: solid #FFF089;
+    display: flex;
+    justify-content: space-between;
+}
+.cantante{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFA1E7;
+    border: solid #FFF089;
+}
+.dis{
+    width: 200px;
+    height: 180px;
+    border: solid #000000;
+}
+.mario{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFA1E7;
+    border: solid #FFF089;
+}
+.proyecto{
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFA1E7;
+    border: solid #FFF089;
+}
